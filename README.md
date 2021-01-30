@@ -3,6 +3,7 @@
 Steve Gadd remix of Simon Bluetts and Christo Tranoris WALL-E 
 https://github.com/sgadd32/Wall-E
 If you are doing the servo eyeborows the find 2x .hpp and 2x .ino Arduino files for Wall-E Eyebrow animations - just replace Simon Bluetts or Christos Tranoris versions.
+(These are integrated already in the SD card image below).
 ------------------------------------------------------------------------------------------------------------------------------------------
 If you want to just use a pre loaded image which includes Eyebrows, OpenCV for Facial recognition, Google text to speech, OLED screen etc:
 ------------------------------------------------------------------------------------------------------------------------------------------
