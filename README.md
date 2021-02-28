@@ -27,8 +27,7 @@ So use VNC to access remotely and then enable SSH login by Root option by using 
 8. Save and exit (CTRL+O, CTRL+X)
 9. Restart SSH:
 10. /etc/init.d/ssh restart
-11. Try SSH again, it should be ok now.
-****
+11. Try SSH again, it should be ok now. ****
 SD/SSD/USB image file Download:
 
 
