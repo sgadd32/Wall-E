@@ -14,17 +14,17 @@ SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
 *** Note If you want to use SSH as Root: SSH Root login is restricted bu default on this image,
 So use VNC to access remotely and then enable SSH login by Root option by using the following instructions: 
 
-Open the command console and follow this proceedure:
-You need to edit the SSH server configuration file to allow root to log in:
-Open the SSH configuration file:
-sudo nano /etc/ssh/sshd_config
-Find this line: prohibit-password
-Replace by this one:
-PermitRootLogin yes
-Save and exit (CTRL+O, CTRL+X)
-Restart SSH:
-/etc/init.d/ssh restart
-Try SSH again, it should be ok now.
+1. Open the command console and follow this proceedure:
+2. You need to edit the SSH server configuration file to allow root to log in:
+3. Open the SSH configuration file:
+4. sudo nano /etc/ssh/sshd_config
+5. Find this line: prohibit-password
+6. Replace by this one:
+7. PermitRootLogin yes
+8. Save and exit (CTRL+O, CTRL+X)
+9. Restart SSH:
+10. /etc/init.d/ssh restart
+11. Try SSH again, it should be ok now.
 
 SD/SSD/USB image file Download:
 
