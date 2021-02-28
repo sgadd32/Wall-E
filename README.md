@@ -10,6 +10,7 @@ If you want to just use a pre loaded image which includes Eyebrows, OpenCV for F
 ------------------------------------------------------------------------------------------------------------------------------------------
 SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
 ** I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC **
+*** Note If you want to use SSH as Root, SSH Root login is restricted on this image, so use VNC to access and the enable SHH login by Root using the following: 
 
 https://drive.google.com/file/d/1MJFFlr7x0lehFsbVX9a-qk3yU8cn2Jve/view?fbclid=IwAR1UybxEieOeYEUhanWamiYM9xSfhtDk6YG2REJYzIoYyJBkrcm1d8iM3ks
 -------------------------------------------------------------------------------------------------------------------------------------------
