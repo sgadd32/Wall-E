@@ -10,9 +10,9 @@ If you want to just use a pre loaded image which includes Eyebrows, OpenCV for F
 ------------------------------------------------------------------------------------------------------------------------------------------
 SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
 
-* I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC *
-** Wall-E web interface page is 127.0.0.1:5000 **
-*** Note If you want to use SSH as Root: SSH Root login is restricted bu default on this image
+** I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC **
+*** Wall-E web interface page is 127.0.0.1:5000 ***
+**** Note If you want to use SSH as Root: SSH Root login is restricted bu default on this image
 So use VNC to access remotely and then enable SSH login by Root option by using the following instructions: 
 
 1. Open the command console and follow this proceedure:
@@ -26,7 +26,7 @@ So use VNC to access remotely and then enable SSH login by Root option by using 
 9. Restart SSH:
 10. /etc/init.d/ssh restart
 11. Try SSH again, it should be ok now.
-***
+****
 SD/SSD/USB image file Download:
 
 
