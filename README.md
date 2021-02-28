@@ -12,7 +12,7 @@ SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
 
 ** I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC **
 
-*** On Rapberry Pi web local browser; Wall-E web interface page is 127.0.0.1:5000 (don't use a cached login page! - refresh/reload it and it MUST ask you to enter password) ***
+*** On the Raspberry Pi local web browser; Wall-E web interface page is 127.0.0.1:5000 (don't use a cached login page! - refresh/reload it and it MUST ask you to enter password) ***
 
 **** Note If you want to use SSH as Root: SSH Root login is restricted bu default on this image
 So use VNC to access remotely and then enable SSH login by Root option by using the following instructions: 
