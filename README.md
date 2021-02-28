@@ -19,7 +19,7 @@ So use VNC to access remotely and then enable SSH login by Root option by using 
 3. Open the SSH configuration file:
 4. sudo nano /etc/ssh/sshd_config
 5. Find this line: prohibit-password
-6. Replace by this one:
+6. Replace with this one:
 7. PermitRootLogin yes
 8. Save and exit (CTRL+O, CTRL+X)
 9. Restart SSH:
