@@ -10,6 +10,8 @@ If you want to just use a pre loaded image which includes Eyebrows, OpenCV for F
 ------------------------------------------------------------------------------------------------------------------------------------------
 SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
 
+I use Win32DiskImager software to flash the image to the SD card/SSD or USB flash drive.
+
 ** I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC **
 
 *** On the Raspberry Pi local web browser; Wall-E web interface page is 127.0.0.1:5000 (don't use a cached login page! - refresh/reload it and it MUST ask you to enter password) ***
