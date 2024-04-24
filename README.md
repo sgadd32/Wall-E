@@ -16,7 +16,7 @@ I use Win32DiskImager software to flash the image to the SD card/SSD or USB flas
 
 *** On the Raspberry Pi local web browser; Wall-E web interface page is 127.0.0.1:5000 (don't use a cached login page! - refresh/reload it and it MUST ask you to enter password) ***
 
-**** Note If you want to use SSH as Root: SSH Root login is restricted bu default on this image
+**** Note If you want to use SSH as Root: SSH Root login is restricted by default on this image
 So use VNC to access remotely and then enable SSH login by Root option by using the following instructions: 
 
 1. Open the command console and follow this proceedure:
