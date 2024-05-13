@@ -1,6 +1,6 @@
 # Wall-E
 --------
-Steve Gadd remix of Simon Bluetts and Christo Tranoris WALL-E 
+Steve Gadd remix of Simon Bluetts and Christos Tranoris WALL-E 
 
 I have integrated some remixed options provided by other people to my version of Simons and Christos versions of WALL-E and because additional software updates and addons were needed, so I have shared my cleaned image as a resource for you to use in case, like me, you are keen to get up and running as soon as possble. 
 -------------------------------------------------------------
