@@ -9,7 +9,7 @@ If you are doing the servo eyebrows then the 2x .hpp and 2x .ino Arduino files f
 If you want to just use a pre loaded image which includes Eyebrows, OpenCV for Facial recognition, Google text to speech, OLED screen options etc:
 ------------------------------------------------------------------------------------------------------------------------------------------
 SD or USB or SSD card image for Pi 3B+ or 4B+ versions:
-You MUST use Win32DiskImager software to flash the image to the SD card/SSD or USB flash drive. Note that the image does not have an extension, this is correct, just use it.
+You MUST use 'Win32DiskImager' software to flash the image to the SD card/SSD or USB flash drive. Note that the image does not have an extension, this is correct, just use it.
 
 ** I used username - 'pi' and password 'raspberry' (defaults) and '12345' as password for web interface and VNC **
 
