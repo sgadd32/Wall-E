@@ -37,4 +37,4 @@ SD/SSD/USB image file Download:
 
 https://drive.google.com/file/d/1MJFFlr7x0lehFsbVX9a-qk3yU8cn2Jve/view?fbclid=IwAR1UybxEieOeYEUhanWamiYM9xSfhtDk6YG2REJYzIoYyJBkrcm1d8iM3ks
 -------------------------------------------------------------------------------------------------------------------------------------------
-I thought that the currrent image contained the language options in the interface for Wall-E's voice already including multi dialects but after all these years I just realised that they were not. so I the following is where to edit the differnt language options : <img width="1488" height="929" alt="image" src="https://github.com/user-attachments/assets/d6c7f270-1817-4a01-b2b3-4b9316c69902" />
+I thought that the currrent image contained the language options in the interface for Wall-E's voice already including multi dialects but after all these years I just realised that they were not. so I the following is where to edit the differnt language options : under /home/pi/walle-replica/web_interface/  <img width="1488" height="929" alt="image" src="https://github.com/user-attachments/assets/d6c7f270-1817-4a01-b2b3-4b9316c69902" />
